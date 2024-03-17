@@ -1,2 +1,13 @@
-# us-uh-huh-vainly
-This is an X login implementation using xauth-login, twt-playground, and the twt-api withusername "alaina97"
+# X Login Implementation (alaina97)
+
+This Node.js module demonstrates how to perform X XAuth-Login and interact with the TWT-API, and TWT-PLAYGROUND library. This implementation using:
+
+- USERNAME: alaina97
+
+## Installation
+
+Make sure you have Node.js installed on your machine. You can install this module using npm:
+
+```bash
+npm install us-uh-huh-vainly
+```
